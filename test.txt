@@ -1,0 +1,4 @@
+<span id="a">someshbhandari</span>:<span id="b">~</span><span id="c">$</span> cat someshbhandari.txt<br/><br/>
+Hi, I'm Somesh Bhandari.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a B. Tech in Computer Science Engineering. I graduated from KIIT University. I'm currently an RPA Developer a Accenture Technologies</a>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
+<p>I am also a Software developer and create some pretty cool websites at my free time.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>If you are interested to get in touch with me and take yur business up to the internet. Feel free to pitch me at</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
